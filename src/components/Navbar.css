@@ -1,0 +1,75 @@
+.logo {
+    display: flex;
+    gap: 1070px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.btn {
+    color: #992E9D;
+    width: 95px;
+    height: 43px;
+    gap: 6px;
+    border: 1px;
+    border-radius: 14px;
+    background-color: #ffffff;
+    cursor: pointer;
+
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+
+
+}
+
+.signup {
+    border: 1px solid #B73BBE;
+    color: #ffffff;
+    background-color: #992E9D;
+    text-align: center;
+    margin-left: 8px;
+
+}
+
+.nav {
+    margin-top: 10px;
+    background-color: #3B3B3E;
+    color: #ffffff;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 1540px;
+    height: 48px;
+    overflow-y: hidden;
+}
+
+li {
+
+    list-style-type: none;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+ul {
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+}
+
+.line {
+    width: 75px;
+    height: 6px;
+    gap: 0px;
+    border-radius: 10px 10px 0px 0px;
+    opacity: 0px;
+    color: #FFA50B;
+    background-color: #FFA50B;
+    margin-left: 555px;
+    margin-top: 13px;
+}
+
+li:hover{
+    font-weight: 500;
+}

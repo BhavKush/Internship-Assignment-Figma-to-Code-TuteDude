@@ -1,0 +1,168 @@
+.container {
+    height: 570px;
+    width: 766px;
+    margin-top: 60px;
+
+    margin-left: 100px;
+}
+
+.image {
+    width: 24px;
+    height: 24px;
+    border-color: white;
+    margin-top: 1px;
+}
+
+.hat {
+
+    width: 355pxpx;
+    height: 66pxpx;
+    padding: 18px 24px 18px 24px;
+    gap: 10px;
+    border-radius: 16px;
+    border: 1px solid #FFA50B;
+    opacity: 0px;
+    background-color: #ffffff;
+    line-height: 24px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #434347;
+
+}
+
+.text {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 85.99px;
+    color: #595961;
+}
+
+.color_text {
+    color: #992E9D;
+}
+
+.small_text {
+    width: 766px;
+    height: 30px;
+    margin-top: 18px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #434347;
+}
+
+.bold_small {
+    font-weight: 500;
+
+}
+
+.star {
+    width: 214px;
+    height: 48px;
+    margin-top: 18px;
+    padding-left: 20px;
+    padding-top: 2px;
+    gap: 6px;
+    border-radius: 100px;
+    border: 1px;
+    background-color: #FFFCEA;
+    color: #BB5302;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.03em;
+    display: flex;
+}
+
+.star_btn{
+    width: 766px;
+    height: 80px;
+    margin-top: 18px;
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+    align-items: center;
+}
+.star_img {
+    width: 22.6px;
+    height: 22.6px;
+    top: 12.7px;
+    left: 12.7px;
+    gap: 0px;
+    opacity: 0px;
+    align-items: center;
+    display: flex;
+    margin-top: 10px;
+    /* margin-left: 12px; */
+}
+
+.star2{
+    width: 255px;
+    height: 48px;
+    margin-top: 18px;
+    padding-left: 10px;
+    padding-top: 2px;
+    gap: 6px;
+    border-radius: 100px;
+    border: 1px;
+    background-color: #FFFCEA;
+    color: #BB5302;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.03em;
+    display: flex;
+}
+
+.two_btn{
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+    padding-top: 24px;
+}
+
+.know_btn{
+    color: #992E9D;
+    width: 175px;
+    height: 65px;
+    gap: 6px;
+    border: 1px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+}
+
+.enroll_btn{
+    display: flex;
+    align-items: center;
+    border: 1px solid #B73BBE;
+    color: #FCF5FE;
+    background-color: #992E9D;
+    text-align: center;
+    margin-left: 8px;
+    justify-content: center;
+    width: 219px;
+    height: 65px;
+    gap: 6px;
+    border: 1px;
+    border-radius: 14px;
+
+    cursor: pointer;
+
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+}
+
+.two_btn img{
+    display: flex;
+}
